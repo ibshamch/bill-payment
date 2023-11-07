@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  margin-top: .6em;
+}
+.nav-item {
+  margin: 0;
+}
+.btns {
+  display: flex;
+  gap: 0.5em;
+}
+.favicon-name {
+  margin: 0;
+  align-self: center;
+}
